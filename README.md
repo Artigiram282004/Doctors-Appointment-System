@@ -10,42 +10,42 @@ A full-stack **Doctor Appointment Booking System** that allows users to book app
 
 ### 👤 User Panel
 
-Register & Login securely (JWT Authentication)
-Browse doctors by specialization
-Book appointments with available time slots
-Online payment integration using Razorpay (Test Mode)
-View & manage appointments
-Update profile & upload image
+* Register & Login securely (JWT Authentication)
+* Browse doctors by specialization
+* Book appointments with available time slots
+* Online payment integration using Razorpay (Test Mode)
+* View & manage appointments
+* Update profile & upload image
 
 ### 🩺 Doctor Panel
 
-Doctor dashboard with appointment overview
-View assigned appointments
-Manage profile details
-Track patient bookings
+* Doctor dashboard with appointment overview
+* View assigned appointments
+* Manage profile details
+* Track patient bookings
 
 ### 🛠️ Admin Panel
 
-Secure admin login
-Add new doctors with image upload (via Cloudinary)
-View all doctors
-Manage doctor availability
-View all appointments in the system
+* Secure admin login
+* Add new doctors with image upload (via Cloudinary)
+* View all doctors
+* Manage doctor availability
+* View all appointments in the system
 
 ## 🧠 What This Project Does
 
 This system simulates a real-world hospital appointment platform:
 
-Patients can discover doctors and book slots
-Doctors can manage their schedule and patients
-Admin controls the entire system (CRUD operations + monitoring)
+* Patients can discover doctors and book slots
+* Doctors can manage their schedule and patients
+* Admin controls the entire system (CRUD operations + monitoring)
 
 It demonstrates:
 
-Full-stack development (Frontend + Backend)
-Authentication & Authorization
-Payment gateway integration
-Real-time data handling with MongoDB
+* Full-stack development (Frontend + Backend)
+* Authentication & Authorization
+* Payment gateway integration
+* Real-time data handling with MongoDB
 ## 🛠️ Tech Stack
 
 ### Frontend
