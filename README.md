@@ -8,12 +8,12 @@ A full-stack **Doctor Appointment Booking System** that allows users to book app
 
 ### 👤 User Panel
 
-*Register & Login securely (JWT Authentication)
-*Browse doctors by specialization
-*Book appointments with available time slots
-*Online payment integration using Razorpay (Test Mode)
-*View & manage appointments
-*Update profile & upload image
+* Register & Login securely (JWT Authentication)
+* Browse doctors by specialization
+* Book appointments with available time slots
+* Online payment integration using Razorpay (Test Mode)
+* View & manage appointments
+* Update profile & upload image
 
 ### 🩺 Doctor Panel
 
