@@ -39,16 +39,16 @@ A full-stack **Doctor Appointment Booking System** that allows users to book app
 
 This system simulates a real-world hospital appointment platform:
 
-*Patients can discover doctors and book slots
-*Doctors can manage their schedule and patients
-*Admin controls the entire system (CRUD operations + monitoring)
+* Patients can discover doctors and book slots
+* Doctors can manage their schedule and patients
+* Admin controls the entire system (CRUD operations + monitoring)
 
 It demonstrates:
 
-*Full-stack development (Frontend + Backend)
-*Authentication & Authorization
-*Payment gateway integration
-*Real-time data handling with MongoDB
+* Full-stack development (Frontend + Backend)
+* Authentication & Authorization
+* Payment gateway integration
+* Real-time data handling with MongoDB
 
 It follows a **3-tier architecture**:
 
